@@ -1,5 +1,7 @@
 <h1 align="center"> Hello <code>&lt;/World!&gt;</code> </h1>
-
+Started learning to code as a hobby and now i'm in my sophomore year as a Multimedia Engineering student.
+<br>
+Also i love OpenSource, coding and solving problems. Pizza as well! 🍕
 <!--
 **Jeanpi117/Jeanpi117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
